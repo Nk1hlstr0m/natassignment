@@ -28,7 +28,7 @@ Then open http://localhost:8000 in your browser.
 
 ## Live site
 
-<!--  lägg in länken till sajten på one.com -->
+<!--  lägg in länken till one.com -->
 Coming soon.
 
 ## Author
@@ -38,3 +38,4 @@ Nathalie Kihlström
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
